@@ -1,0 +1,38 @@
+.main{
+
+    margin-left: 250px;
+    margin-right: 50px;
+    min-height: 480px;
+
+}
+#marq {
+    font-style: italic;
+    font-family: Tahoma, serif;
+    width: 500px;
+    margin-left: 500px;
+}
+.sidebar{
+    font-family: Tahoma, Arial, serif;
+    width: 500px;
+    float: left;
+    height: 320px;
+}
+.downbar{
+    font-family: "Comic Sans MS", serif;
+    color: rgba(1, 1, 1, 0.98);
+    height: 50px;
+    width: 380px;
+    float:left;
+}
+#grad{
+
+
+}
+*{
+    background: lightgreen;
+}
+.downsidebar {
+    height: 50px;
+    width: 380px;
+    float: right;
+}
